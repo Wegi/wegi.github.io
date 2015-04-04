@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Alexander Schneider
+tagline:          A personl Blog
+url:              http://wegi.github.io
+paginate:         1
+baseurl:          http://wegi.github.io/
+author:
+  name:           Alexander Schneider
+  url:            https://twitter.com/DaRealWeGi
+  email:          markdotto@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/wegi/wegi.github.io
