@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Alexander Schneider
-tagline:          A personl Blog
+tagline:          A personal Blog
 url:              http://wegi.github.io
 paginate:         1
 baseurl:          http://wegi.github.io/

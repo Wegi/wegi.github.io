@@ -11,3 +11,5 @@ My field of research are electronic and network voting systems, which could use 
 In my free time I love to engage in competitive computer games, since I have a lot of fun min-maxing said games.
 
 This blog has the purpose to train my english writing skills while sharing things I deem interesting or cool.
+
+If you want to contact me you can write an e-mail to alex@just-wegi.de
