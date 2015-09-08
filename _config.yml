@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Alexander Schneider
-tagline:          A personal Blog
+tagline:
 url:              http://wegi.github.io
 paginate:         1
 baseurl:          http://wegi.github.io/
@@ -22,3 +22,4 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'
+  Publications: '/publications'
