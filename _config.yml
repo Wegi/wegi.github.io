@@ -20,6 +20,6 @@ github:
 
 pages_list:
   About: '/about'
+  Publications: '/publications'
   Archive: '/archive'
   Feed: '/atom.xml'
-  Publications: '/publications'
