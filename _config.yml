@@ -11,7 +11,7 @@ baseurl:          http://wegi.github.io/
 author:
   name:           Alexander Schneider
   url:            https://twitter.com/DaRealWeGi
-  email:          markdotto@gmail.com
+  email:          alexander.schneider@hhu.de
 
 # Custom vars
 version:          1.0.0
